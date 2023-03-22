@@ -1,0 +1,2 @@
+O versionamento funciona como uma linha do tempo com backups que funciona iniciando o repositorio git com o comando git init, neste ponto temos a branch main e podemos versionar o projeto criando novas branchs
+tenho duvidas sobre o comando de apagar branchs
