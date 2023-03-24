@@ -5,8 +5,32 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ranking</title>
     <style>
+      
+.podio {
+    display: inline-block
+
+}
+
+#center {
+text-align: center;
+
+}
+
+#centerpodio {
+    text-align: center
+}
+
+.premios {
+    display: inline
+}
+
       h1 {
         text-align: center;
+      }
+
+      .premiacao {
+        text-align: center;
+        display: inline
       }
 
       .first {
@@ -41,27 +65,28 @@
     </header>
     <section>
       <ul>
-        <li class="first">1º - Equipe 1</li>
-        <li class="second">2º - Equipe 2</li>
-        <li class="third">3º - Equipe 3</li>
+        <div id="center"><li class="first podio">1º - Equipe 1</li><br></div>
+       <div id="centerpodio"> <li class="second podio">2º - Equipe 2</li>
+        <li class="third podio">3º - Equipe 3</li></div>
       </ul>
     </section>
     <section class="premiacao">
       <h3>Premiação Primeiro Lugar:</h3>
-      <ul>
-        <li>| R$ 1000,00 por integrante da equipe |</li>
-        <li>| Bootcamp de 2 meses com possibilidade de contratação |</li>
+     <ul>
+        <li class="premios">| R$ 1000,00 por integrante da equipe |</li>
+        <li class="premios">| Bootcamp de 2 meses com possibilidade de contratação |</li>
       </ul>
       <h3>Premiação Segundo Lugar:</h3>
       <ul>
-        <li>| R$ 600,00 por integrante da equipe |</li>
-        <li>| Participação no processo seletivo para o Bootcamp |</li>
+        <li class="premios">| R$ 600,00 por integrante da equipe |</li>
+        <li class="premios">| Participação no processo seletivo para o Bootcamp |</li>
       </ul>
       <h3>Premiação Terceiro Lugar:</h3>
       <ul>
-        <li>| R$ 300,00 por integrante da equipe |</li>
-        <li>| Participação no processo seletivo para o Bootcamp |</li>
+        <li class="premios">| R$ 300,00 por integrante da equipe |</li>
+        <li class="premios">| Participação no processo seletivo para o Bootcamp |</li>
       </ul>
+
     </section>
   </body>
 </html>
