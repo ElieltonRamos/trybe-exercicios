@@ -1,7 +1,11 @@
 const substituaX = (nome) => {
     const frase = 'Tryber x aqui!'
     let frase2 = frase.split(' ')
-    frase2[1] = nome
+    for(let index = 0; index < frase2.length; index +=1){
+        if(frase2[index] === 'x'){
+        frase2[index] = nome
+        }
+    }
 const result = frase2.join(' ')
 return result
 }
