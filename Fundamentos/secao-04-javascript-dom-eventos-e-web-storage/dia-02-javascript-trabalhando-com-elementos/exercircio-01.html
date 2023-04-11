@@ -8,4 +8,22 @@
       <section id="third-child"></section>
       <section id="fourth-and-last-child"></section>
     </section>
+    <script>
+      const exer1 = document.getElementById('where-are-you')
+      parent.style.color = 'red';
+
+      const firstChildOfChild = whereAreYou.firstElementChild;
+      firstChildOfChild.innerText = 'First child of child';
+
+      const firstChild = parent.firstElementChild;
+
+      const primeiroFilho2 = whereAreYou.previousElementSibling;
+
+      const textElement = whereAreYou.nextSibling;
+
+      const thirdChild = whereAreYou.nextElementSibling;
+
+      const thirdChild2 = parent.lastElementChild.previousElementSibling;
+
+    </script>
   </main>
