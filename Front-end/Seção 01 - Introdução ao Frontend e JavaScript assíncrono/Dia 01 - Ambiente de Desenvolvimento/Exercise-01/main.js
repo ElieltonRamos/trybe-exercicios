@@ -1,3 +1,5 @@
+import { nanoid } from 'nanoid';
+
 import copy from 'clipboard-copy';
 
 import './style.css';
