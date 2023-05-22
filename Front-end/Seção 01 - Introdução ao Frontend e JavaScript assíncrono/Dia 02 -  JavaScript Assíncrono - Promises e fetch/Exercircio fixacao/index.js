@@ -36,5 +36,10 @@ fetch(POSTS_API)
   .then((res) => res.json())
   .then((data) => {
   const { comments } = data;
-  });
+  fillFeaturedPostComments(comments)
+  })
+  .catch((error) => {
+    fillErrorMessage('erro ao recuperar informacoes')
+    console.log(error.message)
+  })
 });
