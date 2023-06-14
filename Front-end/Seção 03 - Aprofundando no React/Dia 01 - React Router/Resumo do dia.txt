@@ -1,0 +1,4 @@
+O que vamos aprender?
+Quando acessamos sites na internet, é comum encontrar aplicações com diversas páginas. Na própria documentação do React, é possível observar um menu de navegação na parte superior da tela, com links para outras páginas, como “Learn“ e “Reference“. Ao clicar em um desses links, serão alterados a URL e o conteúdo que está sendo renderizado.
+
+Hoje, para tornar sua aplicação React navegável, você vai aprender sobre roteamento de páginas. Por meio do React Router, você vai garantir uma melhor experiência para quem fizer uso de sua aplicação, com páginas sofisticadamente estruturadas e intuitivas.
