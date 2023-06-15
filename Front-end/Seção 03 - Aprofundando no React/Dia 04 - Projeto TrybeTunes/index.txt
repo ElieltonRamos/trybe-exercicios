@@ -1,0 +1,28 @@
+Projeto - Trybe Tunes
+O que vamos fazer?
+Qual é o seu estilo musical favorito? Nesse projeto você irá criar uma aplicação para pesquisar e listar álbuns e músicas de várias bandas e artistas. Será possível até mesmo ouvir o preview de cada música. Além disso, você também poderá favoritar suas músicas preferidas. Tudo isso será dividido em várias rotas, cada uma responsável por uma parte da funcionalidade.
+
+Por que isso é importante?
+React é uma biblioteca focada em construir aplicações SPA. Isso significa que, após o carregamento inicial do seu app, tudo acontece na mesma página, sem novos carregamentos. Mas, à medida que um app cresce, fica inviável mostrar todas as suas funcionalidades ao mesmo tempo, e controlar manualmente o que deve ser exibido pode se tornar complexo e propenso a erros.
+
+É aí que entra o React Router, uma biblioteca que permite organizar suas aplicações em rotas e fornece formas de navegar entre elas.
+
+Outra peça importante de React que faltava no seu repertório são os Lifecycle methods. Com eles você consegue fazer com que seus componentes realizem ações em determinados momentos de seu ciclo de vida, como fazer uma requisição a uma API.
+
+Neste projeto, você terá a chance de praticar esses dois conceitos e se tornará ainda mais fluente em React.
+
+Especificação
+O que vamos avaliar?
+Aderência do código à especificação. Seu programa deve se comportar como especificado na próxima seção.
+
+Organização do seu código. Quebre seu site em componentes. Prefira componentes pequenos, simples e bem definidos a componentes grandes e complexos.
+
+O que devo desenvolver?
+Você vai desenvolver uma aplicação que permita pesquisar e listar álbuns e músicas de bandas e artistas, além de ser possível executar o preview e favoritar suas músicas preferidas. Dessa forma, você estará colocando em prática os conceitos de React Router e lifecycle-methods.
+
+Os requisitos detalhados do projeto estão no README.md do repositório.
+
+Entregáveis
+Para entregar o seu projeto, você deverá criar um Pull Request para um repositório no GitHub. Consulte o canal do Slack da turma para obter o endereço do repositório.
+
+Este Pull Request deverá conter a implementação dos seus componentes React, como especificado no README.md do projeto.
