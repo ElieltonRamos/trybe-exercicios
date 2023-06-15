@@ -1,0 +1,6 @@
+O que vamos aprender?
+Hoje, a aula será voltada para a prática da criação de rotas e gerenciamento de efeitos colaterais.
+
+Um repositório será disponibilizado com o exercício a ser desenvolvido ao longo do dia. O objetivo é praticar para que você ganhe familiaridade com o hook useEffect e a biblioteca React Router. Portanto, esforce-se para realizar o máximo possível do exercício.
+
+Posteriormente, durante a aula ao vivo, o exercício será implementado em conjunto com a pessoa instrutora da sua turma.
