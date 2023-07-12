@@ -4,13 +4,14 @@ type ActionType = {
 };
 
 const INITIAL_STATE = {
+  clicks: 0,
   count: 0,
 };
 
 const reducer = (state = INITIAL_STATE, action: ActionType) => {
   switch (action.type) {
     case 'increment_Counter': 
-      return { count: state.count + action.payload };
+      return { ...state, count: state.count + action.payload };
     default: 
       return state;
   }
