@@ -1,0 +1,17 @@
+O que vamos aprender?
+Hoje o dia será um desafio. Você implementará, a partir de um protótipo (layout no Figma), a estilização de um formulário de inscrição utilizado na Trybe. O objetivo será entender como usar o CSS Modules e praticar a estilização de um projeto.
+
+A CSS Modules foi introduzida como uma especificação do CSS. É uma técnica que permite utilizar uma mesma classe CSS em diferentes folhas de estilo, evitando vazamento de escopo para diferentes componentes.
+
+Você será capaz de:
+Entender o que é CSS Modules.
+Criar estilizações utilizando CSS Modules.
+Construir a interface de uma aplicação a partir de um layout do Figma.
+Por que isso é importante?
+Você já possui o hábito de construir as interfaces das aplicações de maneira bastante eficiente e dinâmica. Mas, como pessoas desenvolvedoras Front-end, é importante desenvolver uma boa UX (em tradução livre: experiência do usuário).
+
+É muito comum encontrar aplicações parecidas e que resolvem o mesmo problema. Mas, o que faz uma chamar mais atenção que a outra?
+
+Se você pensou “a mais fácil de usar”, “a mais bonita” ou “a que tem menos anúncios” você acertou. Tudo isso se trata de UX.
+
+Hoje você irá se desafiar a criar boas experiências nas suas aplicações utilizando CSS Modules, evitando conflitos de className.
