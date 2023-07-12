@@ -1,0 +1,8 @@
+Introdução – O que é Redux?
+O Redux é uma biblioteca de gerenciamento de estado global que pode ser utilizada com algum framework Front-end ou com JavaScript puro.
+
+Com Redux, você consegue ter um estado global para sua aplicação. Uma vez definido esse estado, você pode ler e escrever as informações a partir de qualquer lugar (ou qualquer componente, em caso de usar Redux com React).
+
+As tarefas de leitura e escrita no estado global são feitas de forma bem estruturada, em que o Redux define uma “receita” a ser seguida. Por essa razão, ele é considerado uma biblioteca “opinativa” (tradução de opinionated, que indica a presença de regras bem definidas de como trabalhar).
+
+
