@@ -1,0 +1,21 @@
+Introdução – React com classe
+O que vamos aprender?
+Os componentes funcionais usam hooks para gerenciar o estado e lidar com o ciclo de vida, porém, nos primeiros anos do React, os hooks ainda não existiam (eles só foram implementados a partir da versão 16.8). Então, como o estado e o ciclo de vida eram controlados?
+
+Antes da versão 16.8, os componentes funcionais eram mais limitados e só conseguiam exibir informações e receber props. Se você precisasse ter um estado, seria necessário utilizar um componente de classe.
+
+Os componentes de classe têm recursos sofisticados para lidar com o gerenciamento de estado e o ciclo de vida. Para cada etapa desse ciclo existe um método correspondente.
+
+Mesmo sendo uma solução robusta, os componentes de classes perderam espaço para os componentes funcionais com hooks, pois são mais verbosos e trazem mais complexidade para a base de código.
+
+Apesar da diminuição do uso, eles ainda são importantes de se ter em sua “mala de ferramentas” do React, já que muitos projetos ainda os utilizam.
+
+Você será capaz de:
+Criar componentes de classe.
+Utilizar estado em componente de classe.
+Utilizar o this para referenciar o próprio objeto.
+Entender o ciclo de vida React.
+Por que isso é importante?
+Embora componentes funcionais sejam mais utilizados atualmente, aprender a respeito de componentes de classe é algo relevante, pois você ainda encontrará código legado em aplicações no mercado de trabalho que podem estar utilizando componente de classe.
+
+Além disso, aprender a respeito dos conceitos de um componente de classe é importante para entender o funcionamento do ciclo de vida dos componentes React.

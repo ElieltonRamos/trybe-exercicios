@@ -1,0 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: url('/imgs/foto\ fundo.png'), #44d6a1 50% / cover no-repeat;
+}
