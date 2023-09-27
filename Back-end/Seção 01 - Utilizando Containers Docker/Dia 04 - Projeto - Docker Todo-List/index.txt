@@ -1,0 +1,24 @@
+Por que isso é importante?
+Esse projeto é importante não só para fixar o aprendizado da seção de Docker (seu conceito e comandos de manipulação de containers e imagens), como também é importante para que consigamos entender, de forma introdutória, sobre a comunicação entre serviços, no nosso caso, o front-end e back-end!
+
+Especificação
+O que vamos avaliar?
+O conhecimento dos comandos dockers no CLI - Interface de linha de comando;
+A habilidade de criar um contêiner Docker para uma aplicação de front-end;
+A habilidade de criar um contêiner Docker para uma aplicação de back-end;
+A habilidade de criar um contêiner Docker para uma aplicação de testes;
+A habilidade de orquestrar os três contêineres utilizando o Docker compose.
+O que devo desenvolver?
+Você irá “conteinerizar” as aplicações de frontend, backend e testes, criar uma conexão entre elas e orquestrar seu funcionamento! 🐋
+
+Leia o arquivo README.md do projeto com atenção para uma explicação detalhada de como desenvolver e entregar seu projeto.
+
+Entregáveis
+Para entregar o seu projeto, você deverá criar um Pull Request para um repositório no GitHub. Consulte o canal do Slack da turma para obter o endereço do repositório.
+
+Este Pull Request deverá conter seus os arquivos com os comandos do Docker, seus Dockerfiles e docker-compose.yml, como especificado no README.md do projeto.
+
+Fique atento e siga as instruções no README.md do repositório! 🥺
+Qualquer dúvida, poste no Slack.
+
+Lembre-se que você pode consultar nosso conteúdo sobre Git & GitHub sempre que quiser!
