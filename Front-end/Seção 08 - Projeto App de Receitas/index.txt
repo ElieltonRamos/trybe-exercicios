@@ -1,0 +1,71 @@
+Projeto - App de Receitas
+O que vamos fazer?
+Hoje e os próximos dias serão de projeto em grupo! O objetivo é colocar em prática tudo o que você aprendeu sobre React Context API e React Hooks ⚛️ até aqui enquanto pratica a organização de um projeto em equipe com a metodologia agile Kanban.
+
+Você irá desenvolver um app de receitas (discuta com seu grupo um bom nome para o app), que deverá se conectar não somente a uma, mas a duas 2 API’s ao mesmo tempo! 🎒
+
+Além disso, a novidade é que dessa vez você terá que implementar uma interface mobile only. Ou seja, os wireframes disponíveis para você se inspirar ao criar o design do seu projeto foram criados pensando exclusivamente em uma interface mobile! 📱
+
+
+Por que isso é importante?
+Você está chegando ao final do módulo de front-end do curso, parabéns! 🎉
+
+A estrada foi longa até aqui, e você já acumulou mais conhecimento sobre JavaScript e React nas últimas semanas do que nunca, não é verdade?! 💪👊
+
+Este será o último projeto que você irá entregar dentro do módulo de front-end, então dedique-se 125% para fazer dele o troféu de destaque dentro do seu portfólio de projetos em grupo na Trybe! 🏆
+
+Especificação
+O que vamos avaliar?
+Aderência do código à especificação. Seu programa deve se comportar como especificado na próxima seção.
+
+Organização do seu código. Quebre seu site em componentes. Prefira componentes pequenos, simples e bem definidos a componentes grandes e complexos.
+
+Cobertura de testes. Seu código deve ser testável, e deve possuir uma suite de testes robusta e com alta cobertura.
+
+O que devo desenvolver?
+Você irá desenvolver um app de receitas, utilizando o que há de mais moderno dentro do ecossistema React: Hooks e Context API!
+
+O projeto consiste em desenvolver um sistema que permite visualizar, buscar, filtrar, favoritar, compartilhar e acompanhar o processo de preparação de receitas e drinks. A base de dados serão 2 APIs distintas, uma para comidas e outra para bebidas.
+
+O layout tem como foco dispositivos móveis, então todos os protótipos vão estar desenvolvidos em telas menores.
+
+No README do repositório será disponibilizado um exemplo de como pode ser desenvolvido como layout da aplicação, mas sinta-se a vontade para criar com o design que preferir, atentando-se aos requisitos.
+
+As demandas devem ser feitas em paralelo, quando possível, pelas pessoas do grupo. Dividam-se em pares ou façam individualmente as demandas. Caso contrário, não haverá tempo hábil para terminar o trabalho! Separar as tarefas entre as pessoas do grupo com cuidado e combinar a arquitetura do projeto com antecedência será essencial para o bom andamento do trabalho!
+
+⚠️ Atenção para a cobertura de testes! É importante que cada funcionalidade desenvolvida tenha testes unitários para garantir uma boa cobertura de testes do projeto.
+
+Separamos algumas dicas, caso você precise, para te auxiliar no desenvolvimento:
+
+Como se organizar para estruturar um projeto React?
+Como posso estruturar os testes unitários do projeto?
+O que é o Kanban?
+Como utilizar o Projects do Github para nos auxiliar no Kanban?
+Entregáveis
+Para entregar o projeto, o seu grupo deverá implementar as funcionalidades no repositório correspondente até a data-limite da avaliação.
+
+Somente o código que estiver mergeado na branch master será considerado.
+
+Pull Requests que ainda estiverem abertos, bem como commits feitos após o término da data-limite não serão considerados na avaliação.
+
+O fluxo de trabalho para cada funcionalidade deve ser parecido com:
+
+Uma pessoa do grupo pega para si um card da lista de To-do do quadro do seu grupo.
+
+Abre-se uma branch para essa demanda. Ela deve ser aberta a partir da branch master do repositório.
+
+Feita a demanda, deve-se marcar o Pull Request para Code Review. Ao menos duas pessoas do grupo devem revisar, sugerir alterações e melhorias e aprovar a Pull Request para ela poder seguir adiante.
+
+Uma vez aprovada, a Pull Request deve ser mergeada na branch master.
+
+Consulte o canal do Slack da turma para obter o endereço do repositório do seu grupo.
+
+Fique atento e siga as instruções no README.md do repositório! 🧐
+Qualquer dúvida, poste no Slack.
+
+Lembre-se: você pode consultar nosso conteúdo sobre Git & GitHub sempre que quiser!
+
+Próximo
+Aperte o cinto! 💺
+
+Depois de se tornar um mestre jedi em React, você vai aprender tudo o que precisa saber sobre Banco de dados! 🎲
