@@ -1,0 +1,35 @@
+O que vamos aprender?
+Hoje você terá mais detalhes sobre como funciona o Express e o que de fato são middlewares. Além disso, no final do conteúdo de hoje você será capaz de organizar rotas separando-as em diferentes arquivos e também saberá lidar com erros no Express.
+
+Vamos nessa? 🚀
+
+
+Você será capaz de:
+Definir o que são middlewares;
+
+Identificar o que são middlewares;
+
+Empregar o encadeamento de middlewares usando a função next.
+
+Empregar middlewares assíncronos no express.
+
+Empregar a passagem de valores entre middlewares.
+
+Empregar middlewares para tratamento de erros.
+
+Empregar o uso de rotas aplicando o Router.
+
+Por que isso é importante?
+Para a pessoa desenvolvedora é relevante ter diferenciais no mercado de trabalho. Para isso, um passo importante é entregar uma aplicação que ajuda na otimização e melhor desempenho para seu cliente. Para isso, o estudo de middlewares será um passo importante no seu aprendizado.
+
+Os middlewares irão proporcionar melhor comunicação e maior desempenho nas requisições entre servidor e pessoa cliente. Por exemplo, se uma pessoa fizer uma requisição em um formato não reconhecido pelo servidor, ele pode lançar um erro informando que não reconhece aquela situação. Por outro lado, se esse servidor possuir um middleware específico para a “tradução” entre formatos, essa comunicação poderá ocorrer sem nenhum prejuízo. Essa habilidade vai proporcionar a você um grande diferencial na busca por vagas de pessoas desenvolvedoras em Back-end.
+
+Sensacional, não é? 🎉
+
+Sendo assim, você vai observar os middlewares sendo aplicados com os principais objetivos:
+
+Adicionar funcionalidade de autenticação para dar acesso alguma parte da sua aplicação;
+Definir respostas específicas com o status HTTP;
+Reutilizar a lógica em várias rotas da aplicação.
+Bora entender o que são middlewares? 🚀
+
