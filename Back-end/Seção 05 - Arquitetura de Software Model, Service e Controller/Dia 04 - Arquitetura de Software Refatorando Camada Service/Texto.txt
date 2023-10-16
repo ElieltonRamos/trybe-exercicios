@@ -1,0 +1,15 @@
+Vamos continuar aprendendo como melhorar a organização e divisão de responsabilidades em nossas aplicações, ainda por meio da refatoração de nossa API Trybecar. Novamente iremos abordar a camada service, com foco na divisão de responsabilidades, orientação para agrupamento de regras de negócio e realocação de funções que não fazem parte do arquivo app.js, assim fixando o que vínhamos vendo!
+
+Assim como aprendemos na camada model, aqui continuaremos aprendendo quais responsabilidades estão previstas para esta camada, mas agora observando as regras de negócio e as agrupando na camada service!!! Assim como desenvolver testes de unidade para os serviços da nossa aplicação.
+
+Você será capaz de:
+Identificar e interpretar as regras de negócios de uma aplicação;
+Compreender as responsabilidades da camada de serviço dentro da arquitetura em camadas;
+Estruturar a camada de serviço em sua aplicação, por meio de refatoração;
+Melhorar manutenibilidade e reusabilidade do seu código;
+Aplicar testes unitários nos serviço da sua aplicação.
+Por que isso é importante?
+Conforme estamos vendo nesta seção, á medida que um software cresce e sua complexidade aumenta, a organização do código é fundamental!
+
+Hoje vamos dar início a fixação de um assunto que envolve muitas regras de negócio e regra de negócio é quase que metade de um software. Saber identificar, interpretar e principalmente agrupar as regras de negócio no lugar correto, é o divisor de águas para ter uma boa organização e reusabilidade de código, do caos generalizado! Uma regra de negócio mau interpretada ou mau escrita, pode tornar o código que funciona em algo errado, então é muito importante entender e principalmente saber interpretar o que nossas pessoas clientes desejam. Bora lá 🚀!?
+
