@@ -1,0 +1,35 @@
+Introdução
+O que vamos aprender?
+Hoje você dará os primeiros passos em direção aos aprendizados sobre o que é TypeScript, como utilizá-lo e por que ele tem se tornado cada vez mais relevante no mundo da programação.
+
+O conteúdo de hoje e dos demais dias desta seção serão inteiramente dedicados a conhecer essa linguagem de programação, mas é apenas o início. Uma linguagem tem muitos recursos e ferramentas e somente uma seção não seria o suficiente para abordar tudo, por isso tenha tranquilidade, esta é apenas uma introdução ao TypeScript e, ao longo das próximas seções, você continuará a estudar sobre ele. 😉
+
+Contudo, caso queira dar uma olhada mais aprofundada, fique à vontade para consultar a documentação. Ela é bem legal, objetiva e você ainda consegue usar o Playground do TypeScript para testar todos os exemplos que vir por lá de uma maneira bem simples e prática!
+
+Você será capaz de:
+Definir o que é o TypeScript.
+
+Relacionar TypeScript e JavaScript.
+
+Descrever o que é tipagem.
+
+Distinguir compilador de transpilador.
+
+Compilar seu código TypeScript em código JavaScript.
+
+Identificar e implementar os principais tipos do TypeScript.
+
+Utilizar union types para fazer combinações de tipo.
+
+Utilizar type aliases.
+
+Distinguir quando usar inferência de tipo e type annotation.
+
+Por que isso é importante?
+O TypeScript, ou TS, é uma linguagem de programação de código aberto criada pela Microsoft e utilizada no desenvolvimento de um velho conhecido: o VSCode.
+
+Como um superconjunto do JavaScript (em inglês, superset), o TypeScript foi desenvolvido para fornecer ao JavaScript funcionalidades que permitam às pessoas programadoras lidar melhor com diversas dores associadas ao desenvolvimento de software, especialmente em aplicações com milhares de linhas de código.
+
+Com mais de trinta milhões de downloads semanais somente no ano de 2022, o TypeScript é cada vez mais popular em razão das inúmeras vantagens que proporciona às pessoas desenvolvedoras. Hoje, você começará a conhecê-lo e a entender o motivo dessa popularidade.
+
+
