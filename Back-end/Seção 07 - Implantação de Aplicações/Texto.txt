@@ -1,0 +1,16 @@
+Introdução - Implantação de Aplicações
+🚨🚨🚨
+
+O conteúdo presente na plataforma de aprendizagem será trabalhado na íntegra durante os momentos síncronos com o time de instrução.
+
+🚨🚨🚨
+
+O que vamos aprender?
+Pode comemorar! O momento de estudar como disponibilizar seus projetos fora da sua máquina finalmente chegou! Isso mesmo, nesta seção você aprenderá a fazer a implantação ou, em outras palavras, o deploy de suas aplicações! Vamos nessa?! 🚀
+
+
+Realizando deploy de aplicações
+Primeiro, você vai aprender o que é deploy e seus conceitos básicos.
+Em seguida, vai conhecer as mais populares plataformas para realizar deploy nas nuvens - PaaS (Platform as a Service).
+Vai aprender como fazer o deploy em uma dessas plataformas, a Railway.
+Por fim, fique de olho nos Recursos adicionais, lá existem complementos que irão lhe auxiliar no seu dia-a-dia.
