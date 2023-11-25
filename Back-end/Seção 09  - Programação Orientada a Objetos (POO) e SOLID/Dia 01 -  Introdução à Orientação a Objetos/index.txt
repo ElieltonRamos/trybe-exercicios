@@ -1,0 +1,29 @@
+Introdução
+O que vamos aprender?
+Vamos conversar sobre a organização da sua forma de pensar em código.
+
+Nesta etapa da nossa jornada em Back-end, falaremos de um assunto muito importante no mercado de trabalho e que fundamenta outros conhecimentos que você vai adquirir ao longo da carreira. Hoje é dia de Programação Orientada a Objetos (POO)!
+
+Você será capaz de:
+Definir Programação Orientada a Objetos como um paradigma de programação que é base para inúmeras arquiteturas de software
+
+Definir, em Programação Orientada a Objetos
+
+uma Classe
+um Construtor
+um Objeto
+uma Instância
+um Atributo
+um Método
+Implementar, em TypeScript, Classes, Instâncias, Atributos e Métodos
+
+Descrever, como pilares da Programação Orientada a Objetos
+
+a Abstração - a criação de entidades que conterão, cada uma, parte da lógica de seu programa
+o Encapsulamento - a exposição somente do que é necessário para uso dos objetos de uma classe
+Por que isso é importante?
+Programação Orientada a Objetos é um dos paradigmas de programação mais populares, se não o mais popular. Linguagens como Java, Python, C++, Ruby e a clássica Smalltalk são fortemente voltadas para que se programe de forma orientada a objetos. Até mesmo linguagens como JavaScript, que não abraçam o paradigma completamente, são muito influenciadas por ele. As classes de JavaScript, por exemplo, vêm da Programação Orientada a Objetos.
+
+Além disso, muito mais do que uma forma de organizar código, a Programação Orientada a Objetos é uma forma de pensar que fundamenta algumas das arquiteturas de aplicação que você já conhece e muitas outras que conhecerá no futuro.
+
+Observação: Antes de prosseguir com o conteúdo sobre POO, é importante reforçar que esse paradigma é praticamente um requisito para entrar no mercado hoje em dia, uma vez que no dia a dia lidamos com a criação ou manutenção de códigos escritos a partir da Orientação a Objetos. Portanto, aprender POO é essencial para se adequar aos requisitos da maioria das vagas de trabalho.
