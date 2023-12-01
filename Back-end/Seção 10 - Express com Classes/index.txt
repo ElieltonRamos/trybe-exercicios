@@ -1,0 +1,30 @@
+Introdução
+O que vamos aprender?
+Primeiramente meus parabéns por ter chegado até aqui!
+
+Ao longo do módulo de Backend você aprendeu como criar uma API RESTful em Node.js com Express, Sequelize, TypeScript e JWT, e no último bloco foram vistos os conceitos de Programação Orientada a Objetos.
+
+O que acha de unirmos tudo isso?!
+
+Na aula de hoje mostraremos como criar uma API aplicando os conceitos de POO. Esse conteúdo irá mostrar um possível caminho para a resolução do projeto de amanhã, então pegue um café bem forte uma água e bora lá! ☕🚀
+
+Você será capaz de
+Criar uma API RESTful seguindo os princípios da Programação Orientada a Objetos;
+Entender detalhes do uso de POO com Sequelize;
+Entender detalhes do uso de POO com Express;
+Implementar testes de integração para a sua aplicação.
+Por que isso é importante
+A programação funcional é ótima quando estamos trabalhando com projetos mais simples, com poucas rotas e funcionalidades. Porém, à medida que nossa aplicação cresce e novas rotas e regras de negócio devem ser aplicadas, devemos buscar abordagens mais eficientes, seguras e escaláveis.
+
+Utilizar POO para criar APIs REST é uma ótima abordagem em projetos mais complexos, ela nos permite abstrair as entidades com que estamos trabalhando e a tornar nosso código adaptável a diferentes cenários.
+
+Essa flexibilidade que a POO traz nos ajuda a:
+
+Controlar o comportamento da nossa API, ou seja, as entradas e saídas esperadas.
+Criar código possível de ser utilizado em diferentes partes da API.
+Escalar nosso código de forma a lidar com um número maior de requisições.
+Este conhecimento permitirá que você crie aplicações que sejam mais escaláveis, fáceis de entender e manter. Essas habilidades são altamente valorizadas no mercado de trabalho e podem ser um grande diferencial para você.
+
+Para refletir, fique com essa tradução livre de uma frase de Martin Fowler:
+
+“Qualquer tolo pode escrever código que um computador pode entender. Bons programadores escrevem código que os humanos podem entender.”
