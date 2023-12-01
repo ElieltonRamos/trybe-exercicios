@@ -1,0 +1,18 @@
+O que vamos aprender?
+Criar objetos de maneira eficaz requer prática e, no começo, provavelmente você vai refatorar muito código cada vez que uma nova demanda chegar. Isso irá acontecer sempre que você perceber que sua forma de separar o código em entidades não foi a mais efetiva para evitar duplicação e facilitar o entendimento.
+
+Continuando os aprendizados sobre SOLID, hoje você verá os dois princípios restantes: o L e o I. Estes princípios vão entrar na sua caixa de ferramentas para, no tempo, te ajudarem a construir objetos efetivos de primeira, sem precisar refatorar tanto. Esse conteúdo será importante, principalmente, quando estiver trabalhando com grandes aplicações. Vamos lá?!
+
+Você será capaz de
+Substituir objetos em um programa por instâncias de seus subtipos, sem alterar a funcionalidade do programa
+
+Compreender que muitas interfaces específicas são melhores do que uma para todos os propósitos;
+
+Aplicar todos os princípios SOLID.
+
+Por que isso é importante?
+Em uma rotina de desenvolvimento de software, escrever um código que resolve o problema pode não ser a parte mais difícil. Agora, ler um código que já escrito e fazer sua manutenção é a parte mais desafiadora.
+
+Boa parte do tempo de manutenção é gasta para compreender o código que foi escrito e para poder ajustá-lo e, assim, realizar o debug, identificando e corrigindo os erros resultantes das alterações implementadas. É aí que os princípios de SOLID entram!
+
+Os princípios visam aumentar a coesão e diminuir o acoplamento do código, fazendo com que o software seja lido mais facilmente e, principalmente, modificado sem gerar muitos efeitos colaterais (bugs). Esse é um mecanismo muito usado no mercado e aprendê-lo será a chave para um debug mais simples e eficaz.
