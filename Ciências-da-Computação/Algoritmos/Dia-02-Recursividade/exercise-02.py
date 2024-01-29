@@ -1,4 +1,8 @@
 def recursive_max(lista):
+    # Caso base: se a lista estiver vazia, retornar None
+    if not lista:
+        return None
+
     # Caso recursivo: chama a função recursivamente com a lista reduzida
     max_resto = recursive_max(lista[1:])
 
