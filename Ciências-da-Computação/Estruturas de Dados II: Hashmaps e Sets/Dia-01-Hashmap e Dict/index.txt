@@ -1,0 +1,4 @@
+O que vamos aprender
+Hoje vamos aprender sobre a hash map, também conhecida como hash table, uma estrutura de dados importante na computação e imprescindível na sua caixa de ferramentas dev pois oferece operações de consulta e inserção em O(1). Além de usar uma estrutura de chave-valor, você pode melhorar a legibilidade de seu código e pensar em diferentes lógicas durante a resolução dos desafios.
+
+Vamos com tudo, porque esse conteúdo está imperdível!
