@@ -1,0 +1,21 @@
+Onde estamos?
+Olá, pessoa estudante!
+
+O primeiro passo em sua jornada rumo ao desenvolvimento de aplicativos mobile Android nativos com Kotlin é preparar o ambiente de desenvolvimento. Neste momento, você instalará as ferramentas necessárias para iniciar a criação de aplicativos Android, como o Java Development Kit (JDK) e o Android Studio.
+
+Com todo o ambiente criado, você criará seu primeiro projeto Android e estudará as partes que o compõem e o editor de interfaces visuais. Em paralelo a isso, aprenderá o básico do Kotlin, ou seja, a linguagem de programação que será utilizada para construir aplicativos mobile no Android.
+
+E, para finalizar, você executará o aplicativo criado em um emulador Android e em um dispositivo Android físico (caso você possua um).
+
+Ao final do dia, é esperado que você seja capaz de:
+
+Criar um novo projeto no Android Studio.
+Explicar a estrutura de um projeto Android.
+Identificar as construções sintáticas e semânticas do Kotlin.
+Configurar um dispositivo virtual Android.
+Executar um aplicativo Android em um dispositivo virtual.
+Executar um aplicativo Android em um dispositivo físico.
+Por que isso é importante?
+Compreender o processo de configuração de um ambiente de desenvolvimento é uma das habilidades fundamentais que uma pessoa desenvolvedora deve ter para avançar na construção de aplicativos Android.
+
+Em processos seletivos de vagas para pessoa desenvolvedora Android, você terá de criar um projeto do zero, e o conteúdo do hoje ajudará você nisso!
