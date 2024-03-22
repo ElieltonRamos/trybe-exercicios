@@ -1,0 +1,15 @@
+Introdução da seção
+Onde estamos?
+Até este ponto, você dedicou tempo e esforço para compreender os fundamentos da linguagem Kotlin. Você aprendeu a criar variáveis, funções, manipular tipos de dados, e compreender as estruturas condicionais e de repetição. Isso lhe deu uma base sólida para escrever programas funcionais e eficazes. Agora, estamos prestes a dar um grande passo adiante em sua jornada de programação.
+
+O próximo capítulo em sua jornada de aprendizado é a Programação Orientada a Objetos (POO) em Kotlin. A POO é um paradigma de programação poderoso e amplamente utilizado que permite a criação de programas altamente organizados e reutilizáveis. Com a POO, você irá além da programação estruturada e começará a pensar em seus programas como coleções de objetos interconectados.
+
+Nesta seção, você explorará conceitos como classes, objetos, herança, polimorfismo e encapsulamento. Você aprenderá a criar suas próprias classes e objetos, definir métodos e propriedades, e organizar seu código de forma mais modular e intuitiva. A POO permitirá que você modele o mundo real em seu código de uma maneira que faz sentido, tornando-o mais flexível e fácil de manter.
+
+Prepare-se para mergulhar em um novo mundo de possibilidades de programação com Kotlin. À medida que avançamos na compreensão da POO, você verá como essa abordagem pode simplificar e melhorar seus projetos. Vamos começar esta emocionante jornada de Programação Orientada a Objetos em Kotlin e explorar como construir programas robustos e flexíveis que irão revolucionar sua maneira de programar.
+
+Caixa de ferramentas
+Para essa seção/trilha, você irá precisar das seguintes ferramentas:
+
+IntelliJ IDEA Community Edition
+Java JDK 17
