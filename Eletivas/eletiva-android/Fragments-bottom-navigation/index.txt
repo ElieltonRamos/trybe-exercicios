@@ -1,0 +1,8 @@
+Introdução da seção
+Onde estamos?
+Até o momento vimos duas principais formas de criação de componentes visuais em nossas aplicações: Activities e RecyclerView. Nesta seção, conheceremos a principal forma de reutilização de elementos visuais: os Fragments. Além disso, vamos conhecer um componente quase indispensável nas aplicações modernas: a barra de navegação inferior. Para isso, utilizaremos um componente chamado BottomNavigation.
+
+Caixa de ferramentas
+Para essa seção/trilha, você irá precisar do Material 3, que já vimos por aqui.
+
+
