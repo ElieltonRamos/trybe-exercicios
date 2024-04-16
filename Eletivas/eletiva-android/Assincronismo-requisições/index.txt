@@ -1,0 +1,9 @@
+Introdução da seção
+Onde estamos?
+Até o momento, nossas aplicações tem rodado apenas com dados que existem localmente. Nesta seção, aprenderemos a receber informações que estão contidas em serviços externos, com APIs.
+
+Para essa seção/trilha, você irá precisar das seguintes ferramentas:
+
+Retrofit
+Kotlin Serialization
+
