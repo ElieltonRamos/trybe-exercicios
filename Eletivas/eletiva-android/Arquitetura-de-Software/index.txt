@@ -1,0 +1,8 @@
+Onde estamos?
+Até aqui, você estudou e praticou como criar aplicações Android capazes de exibir dados na tela de um dispositivo utilizando diversos componentes visuais, tais como botões, texto, imagens, listas, etc e a manipular os possíveis eventos desses componentes.
+
+Também você é capaz de criar aplicações Android capazes de consumir APIs Rest de forma assíncrona utilizando corotinas e atualizar os componentes visuais baseado nos dados de resposta dessa requisição.
+
+Agora vamos dar um passo adiante e estudar as práticas de organização de código de uma aplicação Android recomendadas pelo Google. Esse conjunto de práticas é comumente chamado de Arquitetura de Software e o Android possui uma estrutura arquitetural bem documentada e é recomendado que a mesma seja seguida na construção de aplicativos Android.
+
+Ao longo desta seção serão apresentados conceitos mais gerais sobre Arquitetura de Software com a intenção de fundamentar as vantagens em possuir uma arquitetura e, em seguida, vamos explorar o padrão arquitetural recomendado pelo Google para aplicações Android.
